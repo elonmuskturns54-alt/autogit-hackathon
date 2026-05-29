@@ -1,0 +1,65 @@
+Wallet Compromise Checker 
+
+A security-focused GitHub application that scans blockchain wallet activity for signs of compromise, malicious approvals, phishing exposure, wallet drainers, suspicious transactions, leaked private keys, and risky smart contract interactions.
+
+The Wallet Compromise Checker helps users and developers quickly assess the safety status of crypto wallets across multiple chains by analyzing on-chain behavior, token approvals, transaction patterns, blacklist databases, and known exploit signatures.
+
+Features
+
+Multi-chain wallet security analysis
+
+Detect malicious token approvals
+
+Wallet drainer & phishing detection
+
+Smart contract risk assessment
+
+Transaction anomaly monitoring
+
+Compromised wallet reputation scoring
+
+Real-time threat intelligence integration
+
+Private key leak monitoring
+
+Suspicious NFT & token interaction alerts
+
+API support for developers and security tools
+
+
+Use Cases
+
+Check if a wallet has been compromised
+
+Audit wallet permissions before trading
+
+Monitor DAO treasury wallets
+
+Protect users from phishing attacks
+
+Integrate wallet security checks into dApps
+
+Risk scoring for Web3 onboarding systems
+
+
+Tech Stack
+
+Built with modern Web3 tooling including blockchain RPC providers, threat intelligence APIs, smart contract analyzers, and secure backend infrastructure.
+
+Ideal For
+
+Web3 developers
+
+Security researchers
+
+DeFi traders
+
+NFT collectors
+
+Crypto exchanges
+
+Wallet providers
+
+DAO communities
+
+Base address: 0xb9cafe3384414441a2f71c270d26d008b95e9db2
