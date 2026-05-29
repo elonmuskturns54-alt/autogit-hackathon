@@ -281,8 +281,8 @@
     "app_type": "bookmark-vault",
     "pr_number": 34,
     "pr_url": "https://github.com/gitbankio/autogit-hackathon/pull/34",
-    "tx_hash": null,
-    "vault_address": null,
-    "paid_at": null
+    "tx_hash": "0x51cad2caf9cfe26c32982e4bb339a98c4f9131c74ee4ddf9d010b92639284c5b",
+    "vault_address": "0x40aDB7763C4cB7331689a9F5152c8eBf8e0C8FCA",
+    "paid_at": "2026-05-29T11:25:10.910Z"
   }
 ]
