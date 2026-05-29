@@ -294,8 +294,8 @@
     "app_type": "midi-monitor",
     "pr_number": 35,
     "pr_url": "https://github.com/gitbankio/autogit-hackathon/pull/35",
-    "tx_hash": null,
-    "vault_address": null,
-    "paid_at": null
+    "tx_hash": "0x60cb541a97e115d63baafd2d44eb3e678dc427965797323f0a7cfa6d86eec3fa",
+    "vault_address": "0x2a47c485d3CCFF210E44d4e5176d5F8ffc8DA95E",
+    "paid_at": "2026-05-29T11:30:44.951Z"
   }
 ]
