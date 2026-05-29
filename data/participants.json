@@ -164,8 +164,8 @@
     "app_type": "tarot-pull",
     "pr_number": 24,
     "pr_url": "https://github.com/gitbankio/autogit-hackathon/pull/24",
-    "tx_hash": null,
-    "vault_address": null,
-    "paid_at": null
+    "tx_hash": "0x5cd95fb15432bc3b8623379b14cebd76bcc0b1cfdec9998b9b2675aa826e6bd0",
+    "vault_address": "0x0197B7661a6281E16DffB762340BD10588BA15a9",
+    "paid_at": "2026-05-29T10:04:50.986Z"
   }
 ]
