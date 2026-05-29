@@ -177,8 +177,8 @@
     "app_type": "gradient-studio",
     "pr_number": 25,
     "pr_url": "https://github.com/gitbankio/autogit-hackathon/pull/25",
-    "tx_hash": null,
-    "vault_address": null,
-    "paid_at": null
+    "tx_hash": "0xadbcda58e92aaf23bdc6fb7d039d4a2039f74aaa90442b17e504593a18ea17c3",
+    "vault_address": "0x5aCc822ff98b07b966c3f2adEf83C97905882A05",
+    "paid_at": "2026-05-29T10:14:26.187Z"
   }
 ]
