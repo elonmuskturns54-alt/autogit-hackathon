@@ -232,5 +232,18 @@
     "tx_hash": "0x36ab4f687027e5df81983bb56dede52cba906fd1d63e5a7b20002a86df0a6dca",
     "vault_address": "0xf534b94D2D319162D24B64b00c61cE1D2db5C7a2",
     "paid_at": "2026-05-29T10:49:14.858Z"
+  },
+  {
+    "entry_number": 19,
+    "github_id": 288910304,
+    "github_login": "samsaltman",
+    "github_avatar": "https://avatars.githubusercontent.com/u/288910304?v=4",
+    "template_title": "WPM Arena",
+    "app_type": "wpm-arena",
+    "pr_number": 30,
+    "pr_url": "https://github.com/gitbankio/autogit-hackathon/pull/30",
+    "tx_hash": null,
+    "vault_address": null,
+    "paid_at": null
   }
 ]
