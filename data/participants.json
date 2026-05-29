@@ -24,5 +24,18 @@
     "tx_hash": "0x0a42133bf179a435fe017f983391a9671cb97b32591e3e82f4ffbc05fe287039",
     "vault_address": "0xa048Dd1F00df98b86444EAC5C24d89685A21fD75",
     "paid_at": "2026-05-29T06:19:01.605Z"
+  },
+  {
+    "entry_number": 3,
+    "github_id": 286581058,
+    "github_login": "EthanGitbanker",
+    "github_avatar": "https://avatars.githubusercontent.com/u/286581058?v=4",
+    "template_title": "Modern Todo List App",
+    "app_type": "todo-app",
+    "pr_number": 10,
+    "pr_url": "https://github.com/gitbankio/autogit-hackathon/pull/10",
+    "tx_hash": null,
+    "vault_address": null,
+    "paid_at": null
   }
 ]
